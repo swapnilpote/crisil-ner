@@ -1,0 +1,14 @@
+# Folders
+.vscode/
+__pycache__/
+glove*/
+
+# Files
+.env
+.flaskenv
+.DS_Store
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.yml
