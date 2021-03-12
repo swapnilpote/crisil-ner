@@ -16,3 +16,4 @@ glove*/
 *.hdf5
 *.json
 *.yml
+*.bin
